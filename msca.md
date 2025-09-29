@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "MSCA"
 permalink: /msca
 ---
 
@@ -38,3 +38,6 @@ An applet displaying (almost) all polyhedra whose lagrangian product with the re
 
 The non-zero slider values have to form a connected graph on the vertex set {0,1,2,3}, but they can tend to zero with different speeds, and this will result in different limit polyhedra. If moving sliders doesn't affect the polyhedron, try refreshing the page.
 
+An extended virtual reality version of this applet can be downloaded [here]({{site.baseurl}}/files/Zonotile_VR.zip). It should run on any major VR headset in Windows on top of SteamVR. Email me if there are issues with controls or anything!
+
+<img src="{{site.baseurl}}/pics/zonotile.gif" alt="Virtual reality" title="Virtual reality">
