@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "VR and AR"
+title: ""
 permalink: /xr
 ---
+
+## Virtual and augmented reality
 
 <img src="{{site.baseurl}}/pics/zonotile.gif" alt="Virtual reality" title="Virtual reality">
 
@@ -11,5 +13,4 @@ permalink: /xr
 <img src="{{site.baseurl}}/pics/billiard.gif" alt="Augmented reality" title="Augmented reality">
 
 <img src="{{site.baseurl}}/pics/borys.gif" alt="Augmented reality" title="Augmented reality" height="410">
-
 <img src="{{site.baseurl}}/pics/samovar.gif" alt="Augmented reality" title="Augmented reality" height="410">

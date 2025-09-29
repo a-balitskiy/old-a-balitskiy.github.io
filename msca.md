@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MSCA"
+title: ""
 permalink: /msca
 ---
 
