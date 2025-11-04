@@ -34,7 +34,7 @@ An augmented reality visualization of this packing problem:
 
 An applet displaying (almost) all polyhedra whose lagrangian product with the regular simplex has the properties of a symplectic ball: 
 
-<iframe src="https://www.wolframcloud.com/obj/0a54873f-32f9-4d91-bb8f-ab9588a7c966?_embed=iframe" style="border: none" width="600" height="450"></iframe>
+<iframe src="https://www.wolframcloud.com/obj/3932f29a-6a36-4434-b5e9-75157c25b392?_embed=iframe" style="border: none" width="600" height="450"></iframe>
 
 The non-zero slider values have to form a connected graph on the vertex set {0,1,2,3}, but they can tend to zero with different speeds, and this will result in different limit polyhedra. If moving sliders doesn't affect the polyhedron, try refreshing the page.
 
